@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="CPC464.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="4.051698"
+     inkscape:cx="651.45527"
+     inkscape:cy="226.94189"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       units="mm"
+       spacingx="9.8"
+       spacingy="9.8"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="4.1346641"
+       markerHeight="3.997"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="4.1346641"
+       markerHeight="3.997"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367-8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="4.1346641"
+       markerHeight="3.997"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="RoundedArrow"
+       markerWidth="4.1346641"
+       markerHeight="3.997"
+       viewBox="0 0 6.1347524 5.9304951"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1367-87" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Grid"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#b3b3b3;stroke:#b8b8b8;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.999999,48.999999 196,49"
+       id="path793"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#b0b0b0;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.999999,58.799999 196,58.8"
+       id="path903"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.999999,68.599999 196,68.6"
+       id="path905"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.999999,78.399999 196,78.4"
+       id="path1495"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.999999,88.199999 196,88.2"
+       id="path1497"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.999999,97.999999 196,98"
+       id="path1499"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.999999,107.8 196,107.8"
+       id="path1501"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.999999,117.6 196,117.6"
+       id="path1503"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.999999,127.4 196,127.4"
+       id="path1505"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.999999,137.2 196,137.2"
+       id="path1507"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.999999,147 196,147"
+       id="path1509"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.999999,48.999999 49,147"
+       id="path1521"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 58.8,147 -10e-7,-98.000001"
+       id="path1523"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 68.599999,48.999999 68.6,147"
+       id="path1525"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 78.4,147 -1e-6,-98.000001"
+       id="path1527"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 88.199999,48.999999 88.2,147"
+       id="path1529"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 98,147 -10e-7,-98.000001"
+       id="path1531"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 107.8,48.999999 107.8,147"
+       id="path1533"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 117.6,147 0,-98.000001"
+       id="path1535"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 127.4,48.999999 127.4,147"
+       id="path1537"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 137.2,147 0,-98.000001"
+       id="path1539"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 147,48.999999 147,147"
+       id="path1541"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 156.8,147 0,-98.000001"
+       id="path1543"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 166.6,48.999999 166.6,147"
+       id="path1545"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 186.2,49 0.1325,98"
+       id="path1545-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 195.8675,49 196,147"
+       id="path1545-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#b3b3b3;stroke:#aaaaaa;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       d="m 176.4,147 0,-98.000001"
+       id="path1547"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ed1212;fill-opacity:1;stroke:none;stroke-width:0.674115;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3449"
+       width="9.8000011"
+       height="9.8000011"
+       x="49"
+       y="49" />
+    <rect
+       style="fill:#40e555;fill-opacity:1;stroke:none;stroke-width:0.664096;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11147"
+       width="9.8000002"
+       height="9.8000021"
+       x="49"
+       y="58.799999" />
+    <rect
+       style="fill:#40e555;fill-opacity:1;stroke:none;stroke-width:0.664096;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11147-5"
+       width="9.8000002"
+       height="9.8000011"
+       x="49"
+       y="68.599998" />
+    <rect
+       style="fill:#40e555;fill-opacity:1;stroke:none;stroke-width:0.664096;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11147-54"
+       width="9.8000002"
+       height="9.7999983"
+       x="49"
+       y="78.400002" />
+    <rect
+       style="fill:#40e555;fill-opacity:1;stroke:none;stroke-width:0.664096;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11147-9"
+       width="9.7999973"
+       height="9.8000031"
+       x="156.8"
+       y="88.199997" />
+    <rect
+       style="fill:#40e555;fill-opacity:1;stroke:none;stroke-width:0.664096;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11147-0"
+       width="9.7999973"
+       height="9.7999954"
+       x="166.60001"
+       y="78.400002" />
+    <rect
+       style="fill:#40e555;fill-opacity:1;stroke:none;stroke-width:0.664097;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11147-03"
+       width="9.8000031"
+       height="9.8000002"
+       x="186.2"
+       y="49" />
+    <rect
+       style="fill:#40e555;fill-opacity:1;stroke:none;stroke-width:0.664096;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11147-52"
+       width="9.8000011"
+       height="9.8000011"
+       x="68.599998"
+       y="117.6" />
+    <rect
+       style="fill:#4075e5;fill-opacity:1;stroke:none;stroke-width:0.664097;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11147-4"
+       width="9.7999973"
+       height="9.8000078"
+       x="117.6"
+       y="137.2" />
+    <rect
+       style="fill:#4075e5;fill-opacity:1;stroke:none;stroke-width:0.664097;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11147-4-0"
+       width="9.8000097"
+       height="9.8000021"
+       x="176.39999"
+       y="58.799999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Colours" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Legend">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f8f8f8;fill-opacity:1;stroke:#f6f6f6;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="50.990993"
+       y="54.732895"
+       id="text1736"><tspan
+         sodipodi:role="line"
+         id="tspan1734"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f8f8f8;fill-opacity:1;stroke:#f6f6f6;stroke-width:0.265;stroke-opacity:1"
+         x="50.990993"
+         y="54.732895">ESC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#f8f8f8;fill-opacity:1;stroke:#f6f6f6;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="50.78706"
+       y="65.107277"
+       id="text1790"><tspan
+         sodipodi:role="line"
+         id="tspan1788"
+         style="fill:#f8f8f8;fill-opacity:1;stroke:#f6f6f6;stroke-width:0.265;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.175px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="50.78706"
+         y="65.107277">TAB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:center;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:#f6f6f6;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="53.782951"
+       y="72.666718"
+       id="text1846"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.175px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#f6f6f6;stroke-opacity:1"
+         x="53.782951"
+         y="72.666718"
+         id="tspan1850">CAPS</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.175px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#f6f6f6;stroke-opacity:1"
+         x="53.782951"
+         y="76.635468"
+         id="tspan1856">LOCK</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:center;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:#f6f6f6;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="53.796127"
+       y="84.242966"
+       id="text1910"><tspan
+         sodipodi:role="line"
+         id="tspan1908"
+         style="fill:#f8f8f8;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.175px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#f6f6f6;stroke-opacity:1"
+         x="53.796127"
+         y="84.242966">SHIFT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="63.489452"
+       y="53.058617"
+       id="text1914"><tspan
+         sodipodi:role="line"
+         id="tspan1912"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="63.489452"
+         y="53.058617">!</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="63.489452"
+         y="57.027367"
+         id="tspan1916">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="73.534256"
+       y="53.121754"
+       id="text1920"><tspan
+         sodipodi:role="line"
+         id="tspan1918"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="73.534256"
+         y="53.121754">&quot;</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="73.534256"
+         y="57.090504"
+         id="tspan1922">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="83.358315"
+       y="53.073696"
+       id="text1926"><tspan
+         sodipodi:role="line"
+         id="tspan1924"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="83.358315"
+         y="53.073696">#</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="83.358315"
+         y="57.042446"
+         id="tspan1928">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="92.89093"
+       y="53.149738"
+       id="text1932"><tspan
+         sodipodi:role="line"
+         id="tspan1930"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="92.89093"
+         y="53.149738">$</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="92.89093"
+         y="57.118488"
+         id="tspan1934">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="102.87003"
+       y="53.067493"
+       id="text1938"><tspan
+         sodipodi:role="line"
+         id="tspan1936"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="102.87003"
+         y="53.067493">%</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="102.87003"
+         y="57.036243"
+         id="tspan1940">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="102.72695"
+       y="94.254196"
+       id="text1938-9"><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.175px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="102.72695"
+         y="94.254196"
+         id="tspan1940-3">SPACE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="112.44553"
+       y="53.067493"
+       id="text1944"><tspan
+         sodipodi:role="line"
+         id="tspan1942"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="112.44553"
+         y="53.067493">&amp;</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="112.44553"
+         y="57.036243"
+         id="tspan1946">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="122.4082"
+       y="53.115551"
+       id="text1950"><tspan
+         sodipodi:role="line"
+         id="tspan1948"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="122.4082"
+         y="53.115551">'</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="122.4082"
+         y="57.084301"
+         id="tspan1952">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="132.36623"
+       y="53.093929"
+       id="text1956"><tspan
+         sodipodi:role="line"
+         id="tspan1954"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="132.36623"
+         y="53.093929">(</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="132.36623"
+         y="57.062679"
+         id="tspan1958">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="142.0677"
+       y="53.101681"
+       id="text1962"><tspan
+         sodipodi:role="line"
+         id="tspan1960"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="142.0677"
+         y="53.101681">)</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="142.0677"
+         y="57.070431"
+         id="tspan1964">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="151.82524"
+       y="53.098579"
+       id="text1968"><tspan
+         sodipodi:role="line"
+         id="tspan1966"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="151.82524"
+         y="53.098579">_</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="151.82524"
+         y="57.067329"
+         id="tspan1970">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="161.67863"
+       y="53.080669"
+       id="text1974"><tspan
+         sodipodi:role="line"
+         id="tspan1972"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="161.67863"
+         y="53.080669">=</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="161.67863"
+         y="57.049419"
+         id="tspan1976">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="171.74313"
+       y="53.515446"
+       id="text1980"><tspan
+         sodipodi:role="line"
+         id="tspan1978"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="171.74313"
+         y="53.515446">£</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="171.74313"
+         y="57.484196"
+         id="tspan1982">^</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="63.512764"
+       y="65.640274"
+       id="text1994"><tspan
+         sodipodi:role="line"
+         id="tspan1992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#070707;fill-opacity:1;stroke-width:0.265"
+         x="63.512764"
+         y="65.640274">Q</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="73.241737"
+       y="65.7519"
+       id="text1998"><tspan
+         sodipodi:role="line"
+         id="tspan1996"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="73.241737"
+         y="65.7519">W</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="82.863258"
+       y="65.7519"
+       id="text2206"><tspan
+         sodipodi:role="line"
+         id="tspan2204"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="82.863258"
+         y="65.7519">E</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="92.973885"
+       y="65.7519"
+       id="text2210"><tspan
+         sodipodi:role="line"
+         id="tspan2208"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="92.973885"
+         y="65.7519">R</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="112.51051"
+       y="65.7519"
+       id="text2307"><tspan
+         sodipodi:role="line"
+         id="tspan2305"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="112.51051"
+         y="65.7519">Y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="122.5448"
+       y="65.876297"
+       id="text2311"><tspan
+         sodipodi:role="line"
+         id="tspan2309"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="122.5448"
+         y="65.876297">U</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="132.3"
+       y="65.7519"
+       id="text2315"><tspan
+         sodipodi:role="line"
+         id="tspan2313"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="132.3"
+         y="65.7519">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="142.02052"
+       y="65.7519"
+       id="text2319"><tspan
+         sodipodi:role="line"
+         id="tspan2317"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="142.02052"
+         y="65.7519">O</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="151.67934"
+       y="65.924911"
+       id="text2323"><tspan
+         sodipodi:role="line"
+         id="tspan2321"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="151.67934"
+         y="65.924911">P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="63.714451"
+       y="75.551895"
+       id="text2327"><tspan
+         sodipodi:role="line"
+         id="tspan2325"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="63.714451"
+         y="75.551895">A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="73.222786"
+       y="75.477478"
+       id="text2331"><tspan
+         sodipodi:role="line"
+         id="tspan2329"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="73.222786"
+         y="75.477478">S</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="82.823807"
+       y="75.551895"
+       id="text2335"><tspan
+         sodipodi:role="line"
+         id="tspan2333"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="82.823807"
+         y="75.551895">D</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="92.803116"
+       y="75.551895"
+       id="text2339"><tspan
+         sodipodi:role="line"
+         id="tspan2337"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="92.803116"
+         y="75.551895">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="102.94272"
+       y="75.626305"
+       id="text2343"><tspan
+         sodipodi:role="line"
+         id="tspan2341"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="102.94272"
+         y="75.626305">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="112.44093"
+       y="75.551895"
+       id="text2347"><tspan
+         sodipodi:role="line"
+         id="tspan2345"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="112.44093"
+         y="75.551895">H</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="63.788643"
+       y="85.351898"
+       id="text2351"><tspan
+         sodipodi:role="line"
+         id="tspan2349"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="63.788643"
+         y="85.351898">Z</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="73.456352"
+       y="85.351898"
+       id="text2355"><tspan
+         sodipodi:role="line"
+         id="tspan2353"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="73.456352"
+         y="85.351898">X</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="83.164024"
+       y="85.140671"
+       id="text2359"><tspan
+         sodipodi:role="line"
+         id="tspan2357"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="83.164024"
+         y="85.140671">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="92.677971"
+       y="85.066254"
+       id="text2363"><tspan
+         sodipodi:role="line"
+         id="tspan2361"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="92.677971"
+         y="85.066254">V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="102.57847"
+       y="85.197563"
+       id="text2367"><tspan
+         sodipodi:role="line"
+         id="tspan2365"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="102.57847"
+         y="85.197563">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="112.6557"
+       y="85.351891"
+       id="text2371"><tspan
+         sodipodi:role="line"
+         id="tspan2369"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#070707;fill-opacity:1;stroke-width:0.265"
+         x="112.6557"
+         y="85.351891">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="122.68775"
+       y="75.533295"
+       id="text2375"><tspan
+         sodipodi:role="line"
+         id="tspan2373"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#070707;fill-opacity:1;stroke-width:0.265"
+         x="122.68775"
+         y="75.533295">J</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="132.12419"
+       y="75.551895"
+       id="text2379"><tspan
+         sodipodi:role="line"
+         id="tspan2377"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#070707;fill-opacity:1;stroke-width:0.265"
+         x="132.12419"
+         y="75.551895">K</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="141.69652"
+       y="75.551895"
+       id="text2383"><tspan
+         sodipodi:role="line"
+         id="tspan2381"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#070707;fill-opacity:1;stroke-width:0.265"
+         x="141.69652"
+         y="75.551895">L</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="122.63216"
+       y="85.351891"
+       id="text2387"><tspan
+         sodipodi:role="line"
+         id="tspan2385"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#070707;fill-opacity:1;stroke-width:0.265"
+         x="122.63216"
+         y="85.351891">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="171.5937"
+       y="74.94651"
+       id="text2395"><tspan
+         sodipodi:role="line"
+         id="tspan2393"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="171.5937"
+         y="74.94651">]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="102.78082"
+       y="65.7519"
+       id="text2399"><tspan
+         sodipodi:role="line"
+         id="tspan2397"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="102.78082"
+         y="65.7519">T</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="171.58084"
+       y="65.461555"
+       id="text2403"><tspan
+         sodipodi:role="line"
+         id="tspan2401"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="171.58084"
+         y="65.461555">[</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="161.37486"
+       y="85.342339"
+       id="text2407"><tspan
+         sodipodi:role="line"
+         id="tspan2405"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#070707;fill-opacity:1;stroke-width:0.265"
+         x="161.37486"
+         y="85.342339">\</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="161.70155"
+       y="62.679745"
+       id="text2411"><tspan
+         sodipodi:role="line"
+         id="tspan2409"
+         style="font-size:3.52777778px;fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="161.70155"
+         y="62.679745">|</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52777778px;fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="161.70155"
+         y="66.648491"
+         id="tspan2413">@</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="151.81075"
+       y="72.730759"
+       id="text2417"><tspan
+         sodipodi:role="line"
+         id="tspan2415"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="151.81075"
+         y="72.730759">*</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="151.81075"
+         y="76.699509"
+         id="tspan2419">:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="162.0094"
+       y="72.506912"
+       id="text2423"><tspan
+         sodipodi:role="line"
+         id="tspan2421"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="162.0094"
+         y="72.506912">+</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="162.0094"
+         y="76.475662"
+         id="tspan2425">;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="132.31085"
+       y="82.104424"
+       id="text2429"><tspan
+         sodipodi:role="line"
+         id="tspan2427"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="132.31085"
+         y="82.104424">&lt;</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="132.31085"
+         y="86.073174"
+         id="tspan2431">,</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="142.48033"
+       y="82.578674"
+       id="text2435"><tspan
+         sodipodi:role="line"
+         id="tspan2433"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="142.48033"
+         y="82.578674">&gt;</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="142.48033"
+         y="86.547424"
+         id="tspan2437">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="151.93759"
+       y="82.257431"
+       id="text2441"><tspan
+         sodipodi:role="line"
+         id="tspan2439"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="151.93759"
+         y="82.257431">?</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="151.93759"
+         y="86.226181"
+         id="tspan2443">/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="181.13841"
+       y="55.054192"
+       id="text2447"><tspan
+         sodipodi:role="line"
+         id="tspan2445"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="181.13841"
+         y="55.054192">CLR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:center;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:#f6f6f6;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="191.09914"
+       y="54.990551"
+       id="text2451"><tspan
+         sodipodi:role="line"
+         id="tspan2449"
+         style="fill:#f8f8f8;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.175px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#f6f6f6;stroke-opacity:1"
+         x="191.09914"
+         y="54.990551">DEL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:center;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:#f6f6f6;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="181.08698"
+       y="64.812332"
+       id="text2455"><tspan
+         sodipodi:role="line"
+         id="tspan2453"
+         style="fill:#f8f8f8;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.175px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#f6f6f6;stroke-opacity:1"
+         x="181.08698"
+         y="64.812332">ENTER</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:center;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:#f6f6f6;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="171.40733"
+       y="84.294945"
+       id="text2459"><tspan
+         sodipodi:role="line"
+         id="tspan2457"
+         style="fill:#f8f8f8;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.175px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#f6f6f6;stroke-opacity:1"
+         x="171.40733"
+         y="84.294945">SHIFT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:#f6f6f6;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="161.60931"
+       y="94.254196"
+       id="text2463"><tspan
+         sodipodi:role="line"
+         id="tspan2461"
+         style="fill:#f8f8f8;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#f6f6f6;stroke-opacity:1"
+         x="161.60931"
+         y="94.254196">CTRL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:center;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:#f6f6f6;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="73.415504"
+       y="123.65419"
+       id="text2467"><tspan
+         sodipodi:role="line"
+         id="tspan2465"
+         style="fill:#f8f8f8;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.175px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:#f6f6f6;stroke-opacity:1"
+         x="73.415504"
+         y="123.65419">COPY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="102.80109"
+       y="114.75189"
+       id="text2471"><tspan
+         sodipodi:role="line"
+         id="tspan2469"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="102.80109"
+         y="114.75189">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="112.81821"
+       y="114.74363"
+       id="text2475"><tspan
+         sodipodi:role="line"
+         id="tspan2473"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="112.81821"
+         y="114.74363">8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="122.4066"
+       y="114.75327"
+       id="text2479"><tspan
+         sodipodi:role="line"
+         id="tspan2477"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="122.4066"
+         y="114.75327">9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="102.93031"
+       y="124.5519"
+       id="text2483"><tspan
+         sodipodi:role="line"
+         id="tspan2481"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="102.93031"
+         y="124.5519">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="112.6945"
+       y="124.46646"
+       id="text2487"><tspan
+         sodipodi:role="line"
+         id="tspan2485"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="112.6945"
+         y="124.46646">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="122.52754"
+       y="124.54777"
+       id="text2491"><tspan
+         sodipodi:role="line"
+         id="tspan2489"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="122.52754"
+         y="124.54777">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="102.90155"
+       y="134.75945"
+       id="text2495"><tspan
+         sodipodi:role="line"
+         id="tspan2493"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#070707;fill-opacity:1;stroke-width:0.265"
+         x="102.90155"
+         y="134.75945">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="112.66142"
+       y="134.80019"
+       id="text2499"><tspan
+         sodipodi:role="line"
+         id="tspan2497"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="112.66142"
+         y="134.80019">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="122.44487"
+       y="134.75746"
+       id="text2503"><tspan
+         sodipodi:role="line"
+         id="tspan2501"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="122.44487"
+         y="134.75746">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="102.89724"
+       y="144.15051"
+       id="text2507"><tspan
+         sodipodi:role="line"
+         id="tspan2505"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:6.35px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="102.89724"
+         y="144.15051">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="112.78722"
+       y="144.23595"
+       id="text2511"><tspan
+         sodipodi:role="line"
+         id="tspan2509"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.265;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-size:6.35px"
+         x="112.78722"
+         y="144.23595">.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#f8f8f8;fill-opacity:1;stroke:#f6f6f6;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1"
+       x="122.40078"
+       y="143.22784"
+       id="text2515"><tspan
+         sodipodi:role="line"
+         id="tspan2513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f8f8f8;fill-opacity:1;stroke-width:0.265;stroke:#f6f6f6;stroke-opacity:1"
+         x="122.40078"
+         y="143.22784">ENTER</tspan></text>
+    <path
+       style="fill:#050505;fill-opacity:1;stroke:#060606;stroke-width:0.7;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="m 73.499999,116.01673 v -4.84387"
+       id="path2571" />
+    <path
+       style="fill:#050505;fill-opacity:1;stroke:#060606;stroke-width:0.7;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-5)"
+       d="m 66.913124,122.5 h -4.84387"
+       id="path2571-0" />
+    <path
+       style="fill:#050505;fill-opacity:1;stroke:#060606;stroke-width:0.7;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-1)"
+       d="m 79.983273,122.5 h 4.84387"
+       id="path2571-1" />
+    <path
+       style="fill:#050505;fill-opacity:1;stroke:#060606;stroke-width:0.7;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-4)"
+       d="m 73.499999,129.18202 v 4.84387"
+       id="path2571-5" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777778px;text-align:center;text-anchor:middle;fill:#070707;fill-opacity:1;stroke:#060606;stroke-width:0.665001;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+       x="99.842361"
+       y="93.904045"
+       id="text3336"><tspan
+         sodipodi:role="line"
+         id="tspan3334"
+         style="fill:#070707;fill-opacity:1;stroke-width:0.665;-inkscape-font-specification:'DIN 1451 Mittelschrift, Normal';font-family:'DIN 1451 Mittelschrift';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3.52777778px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         x="99.842361"
+         y="93.904045" /></text>
+  </g>
+</svg>

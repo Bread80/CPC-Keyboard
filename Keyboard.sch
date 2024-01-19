@@ -1,0 +1,1981 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_SPST SW79
+U 1 1 63EFA144
+P 4550 1750
+F 0 "SW79" H 4550 1985 50  0000 C CNN
+F 1 "DEL" H 4550 1894 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 4550 1750 50  0001 C CNN
+F 3 "~" H 4550 1750 50  0001 C CNN
+	1    4550 1750
+	1    0    0    -1  
+$EndComp
+Text GLabel 750  1350 1    50   Output ~ 0
+X1
+Text GLabel 1250 1350 1    50   Output ~ 0
+X2
+Text GLabel 1750 1350 1    50   Output ~ 0
+X3
+Text GLabel 2250 1350 1    50   Output ~ 0
+X4
+Text GLabel 2750 1350 1    50   Output ~ 0
+X5
+Text GLabel 3250 1350 1    50   Output ~ 0
+X6
+Text GLabel 3750 1350 1    50   Output ~ 0
+X7
+Text GLabel 4250 1350 1    50   Output ~ 0
+X8
+Text GLabel 4350 1350 1    50   Output ~ 0
+X9
+Text GLabel 4750 5050 2    50   Input ~ 0
+Y1
+Text GLabel 4750 4650 2    50   Input ~ 0
+Y2
+Text GLabel 4750 4250 2    50   Input ~ 0
+Y3
+Text GLabel 4750 3850 2    50   Input ~ 0
+Y4
+Text GLabel 4750 3450 2    50   Input ~ 0
+Y5
+Text GLabel 4750 3050 2    50   Input ~ 0
+Y6
+Text GLabel 4750 2650 2    50   Input ~ 0
+Y7
+Text GLabel 4750 2250 2    50   Input ~ 0
+Y8
+Text GLabel 4750 1850 2    50   Input ~ 0
+Y9
+Text GLabel 4750 1750 2    50   Input ~ 0
+Y10
+Wire Wire Line
+	4350 1350 4350 1750
+$Comp
+L Switch:SW_SPST SW64
+U 1 1 63EFB0A7
+P 950 2150
+F 0 "SW64" H 950 2385 50  0000 C CNN
+F 1 "1 !" H 950 2294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 950 2150 50  0001 C CNN
+F 3 "~" H 950 2150 50  0001 C CNN
+	1    950  2150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	750  1350 750  2150
+Wire Wire Line
+	1150 2150 1150 1850
+Wire Wire Line
+	1150 1850 1650 1850
+$Comp
+L Switch:SW_SPST SW56
+U 1 1 63EFB7C7
+P 950 2550
+F 0 "SW56" H 950 2785 50  0000 C CNN
+F 1 "4 $" H 950 2694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 950 2550 50  0001 C CNN
+F 3 "~" H 950 2550 50  0001 C CNN
+	1    950  2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW48
+U 1 1 63EFB8F9
+P 950 2950
+F 0 "SW48" H 950 3185 50  0000 C CNN
+F 1 "6 &" H 950 3094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 950 2950 50  0001 C CNN
+F 3 "~" H 950 2950 50  0001 C CNN
+	1    950  2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW40
+U 1 1 63EFBA26
+P 950 3350
+F 0 "SW40" H 950 3585 50  0000 C CNN
+F 1 "8 (" H 950 3494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 950 3350 50  0001 C CNN
+F 3 "~" H 950 3350 50  0001 C CNN
+	1    950  3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW32
+U 1 1 63EFBB67
+P 950 3750
+F 0 "SW32" H 950 3985 50  0000 C CNN
+F 1 "0 _" H 950 3894 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 950 3750 50  0001 C CNN
+F 3 "~" H 950 3750 50  0001 C CNN
+	1    950  3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW24
+U 1 1 63EFBC94
+P 950 4150
+F 0 "SW24" H 950 4385 50  0000 C CNN
+F 1 "^ £" H 950 4294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 950 4150 50  0001 C CNN
+F 3 "~" H 950 4150 50  0001 C CNN
+	1    950  4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW16
+U 1 1 63EFBDC1
+P 950 4550
+F 0 "SW16" H 950 4785 50  0000 C CNN
+F 1 "CLR" H 950 4694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 950 4550 50  0001 C CNN
+F 3 "~" H 950 4550 50  0001 C CNN
+	1    950  4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW8
+U 1 1 63EFBEEE
+P 950 4950
+F 0 "SW8" H 950 5185 50  0000 C CNN
+F 1 "LEFT" H 950 5094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 950 4950 50  0001 C CNN
+F 3 "~" H 950 4950 50  0001 C CNN
+	1    950  4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW0
+U 1 1 63EFC01B
+P 950 5350
+F 0 "SW0" H 950 5585 50  0000 C CNN
+F 1 "UP" H 950 5494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 950 5350 50  0001 C CNN
+F 3 "~" H 950 5350 50  0001 C CNN
+	1    950  5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW65
+U 1 1 63EFC1F3
+P 1450 2150
+F 0 "SW65" H 1450 2385 50  0000 C CNN
+F 1 "2 \"" H 1450 2294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1450 2150 50  0001 C CNN
+F 3 "~" H 1450 2150 50  0001 C CNN
+	1    1450 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW66
+U 1 1 63EFC361
+P 1950 2150
+F 0 "SW66" H 1950 2385 50  0000 C CNN
+F 1 "ESC" H 1950 2294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1950 2150 50  0001 C CNN
+F 3 "~" H 1950 2150 50  0001 C CNN
+	1    1950 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW67
+U 1 1 63EFC4DE
+P 2450 2150
+F 0 "SW67" H 2450 2385 50  0000 C CNN
+F 1 "Q" H 2450 2294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2450 2150 50  0001 C CNN
+F 3 "~" H 2450 2150 50  0001 C CNN
+	1    2450 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW68
+U 1 1 63EFC647
+P 2950 2150
+F 0 "SW68" H 2950 2385 50  0000 C CNN
+F 1 "TAB" H 2950 2294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2950 2150 50  0001 C CNN
+F 3 "~" H 2950 2150 50  0001 C CNN
+	1    2950 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW69
+U 1 1 63EFC7C4
+P 3450 2150
+F 0 "SW69" H 3450 2385 50  0000 C CNN
+F 1 "A" H 3450 2294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3450 2150 50  0001 C CNN
+F 3 "~" H 3450 2150 50  0001 C CNN
+	1    3450 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW70
+U 1 1 63EFC92D
+P 3950 2150
+F 0 "SW70" H 3950 2385 50  0000 C CNN
+F 1 "CAPS" H 3950 2294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3950 2150 50  0001 C CNN
+F 3 "~" H 3950 2150 50  0001 C CNN
+	1    3950 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW71
+U 1 1 63EFCA96
+P 4450 2150
+F 0 "SW71" H 4450 2385 50  0000 C CNN
+F 1 "Z" H 4450 2294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 4450 2150 50  0001 C CNN
+F 3 "~" H 4450 2150 50  0001 C CNN
+	1    4450 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW57
+U 1 1 63EFCF12
+P 1450 2550
+F 0 "SW57" H 1450 2785 50  0000 C CNN
+F 1 "3 #" H 1450 2694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1450 2550 50  0001 C CNN
+F 3 "~" H 1450 2550 50  0001 C CNN
+	1    1450 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW49
+U 1 1 63EFD044
+P 1450 2950
+F 0 "SW49" H 1450 3185 50  0000 C CNN
+F 1 "5 %" H 1450 3094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1450 2950 50  0001 C CNN
+F 3 "~" H 1450 2950 50  0001 C CNN
+	1    1450 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW41
+U 1 1 63EFD171
+P 1450 3350
+F 0 "SW41" H 1450 3585 50  0000 C CNN
+F 1 "7 '" H 1450 3494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1450 3350 50  0001 C CNN
+F 3 "~" H 1450 3350 50  0001 C CNN
+	1    1450 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW33
+U 1 1 63EFD2B2
+P 1450 3750
+F 0 "SW33" H 1450 3985 50  0000 C CNN
+F 1 "9 )" H 1450 3894 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1450 3750 50  0001 C CNN
+F 3 "~" H 1450 3750 50  0001 C CNN
+	1    1450 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW25
+U 1 1 63EFD3DF
+P 1450 4150
+F 0 "SW25" H 1450 4385 50  0000 C CNN
+F 1 "- =" H 1450 4294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1450 4150 50  0001 C CNN
+F 3 "~" H 1450 4150 50  0001 C CNN
+	1    1450 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW17
+U 1 1 63EFD50C
+P 1450 4550
+F 0 "SW17" H 1450 4785 50  0000 C CNN
+F 1 "[" H 1450 4694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1450 4550 50  0001 C CNN
+F 3 "~" H 1450 4550 50  0001 C CNN
+	1    1450 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW9
+U 1 1 63EFD639
+P 1450 4950
+F 0 "SW9" H 1450 5185 50  0000 C CNN
+F 1 "COPY" H 1450 5094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1450 4950 50  0001 C CNN
+F 3 "~" H 1450 4950 50  0001 C CNN
+	1    1450 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW1
+U 1 1 63EFD766
+P 1450 5350
+F 0 "SW1" H 1450 5585 50  0000 C CNN
+F 1 "RIGHT" H 1450 5494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1450 5350 50  0001 C CNN
+F 3 "~" H 1450 5350 50  0001 C CNN
+	1    1450 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW2
+U 1 1 63EFD88E
+P 1950 5350
+F 0 "SW2" H 1950 5585 50  0000 C CNN
+F 1 "DOWN" H 1950 5494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1950 5350 50  0001 C CNN
+F 3 "~" H 1950 5350 50  0001 C CNN
+	1    1950 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW10
+U 1 1 63EFDA0B
+P 1950 4950
+F 0 "SW10" H 1950 5185 50  0000 C CNN
+F 1 "7" H 1950 5094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1950 4950 50  0001 C CNN
+F 3 "~" H 1950 4950 50  0001 C CNN
+	1    1950 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW18
+U 1 1 63EFDB38
+P 1950 4550
+F 0 "SW18" H 1950 4785 50  0000 C CNN
+F 1 "ENTER" H 1950 4694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1950 4550 50  0001 C CNN
+F 3 "~" H 1950 4550 50  0001 C CNN
+	1    1950 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW26
+U 1 1 63EFDC65
+P 1950 4150
+F 0 "SW26" H 1950 4385 50  0000 C CNN
+F 1 "@ |" H 1950 4294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1950 4150 50  0001 C CNN
+F 3 "~" H 1950 4150 50  0001 C CNN
+	1    1950 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW34
+U 1 1 63EFDD92
+P 1950 3750
+F 0 "SW34" H 1950 3985 50  0000 C CNN
+F 1 "O" H 1950 3894 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1950 3750 50  0001 C CNN
+F 3 "~" H 1950 3750 50  0001 C CNN
+	1    1950 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW42
+U 1 1 63EFDEBF
+P 1950 3350
+F 0 "SW42" H 1950 3585 50  0000 C CNN
+F 1 "U" H 1950 3494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1950 3350 50  0001 C CNN
+F 3 "~" H 1950 3350 50  0001 C CNN
+	1    1950 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW50
+U 1 1 63EFDFEC
+P 1950 2950
+F 0 "SW50" H 1950 3185 50  0000 C CNN
+F 1 "R" H 1950 3094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1950 2950 50  0001 C CNN
+F 3 "~" H 1950 2950 50  0001 C CNN
+	1    1950 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW58
+U 1 1 63EFE119
+P 1950 2550
+F 0 "SW58" H 1950 2785 50  0000 C CNN
+F 1 "E" H 1950 2694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 1950 2550 50  0001 C CNN
+F 3 "~" H 1950 2550 50  0001 C CNN
+	1    1950 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW59
+U 1 1 63EFE246
+P 2450 2550
+F 0 "SW59" H 2450 2785 50  0000 C CNN
+F 1 "W" H 2450 2694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2450 2550 50  0001 C CNN
+F 3 "~" H 2450 2550 50  0001 C CNN
+	1    2450 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW51
+U 1 1 63EFE427
+P 2450 2950
+F 0 "SW51" H 2450 3185 50  0000 C CNN
+F 1 "T" H 2450 3094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2450 2950 50  0001 C CNN
+F 3 "~" H 2450 2950 50  0001 C CNN
+	1    2450 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW43
+U 1 1 63EFE554
+P 2450 3350
+F 0 "SW43" H 2450 3585 50  0000 C CNN
+F 1 "Y" H 2450 3494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2450 3350 50  0001 C CNN
+F 3 "~" H 2450 3350 50  0001 C CNN
+	1    2450 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW35
+U 1 1 63EFE681
+P 2450 3750
+F 0 "SW35" H 2450 3985 50  0000 C CNN
+F 1 "I" H 2450 3894 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2450 3750 50  0001 C CNN
+F 3 "~" H 2450 3750 50  0001 C CNN
+	1    2450 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW27
+U 1 1 63EFE7AE
+P 2450 4150
+F 0 "SW27" H 2450 4385 50  0000 C CNN
+F 1 "P" H 2450 4294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2450 4150 50  0001 C CNN
+F 3 "~" H 2450 4150 50  0001 C CNN
+	1    2450 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW19
+U 1 1 63EFE8DB
+P 2450 4550
+F 0 "SW19" H 2450 4785 50  0000 C CNN
+F 1 "]" H 2450 4694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2450 4550 50  0001 C CNN
+F 3 "~" H 2450 4550 50  0001 C CNN
+	1    2450 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW11
+U 1 1 63EFEA08
+P 2450 4950
+F 0 "SW11" H 2450 5185 50  0000 C CNN
+F 1 "8" H 2450 5094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2450 4950 50  0001 C CNN
+F 3 "~" H 2450 4950 50  0001 C CNN
+	1    2450 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW3
+U 1 1 63EFEB35
+P 2450 5350
+F 0 "SW3" H 2450 5585 50  0000 C CNN
+F 1 "9" H 2450 5494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2450 5350 50  0001 C CNN
+F 3 "~" H 2450 5350 50  0001 C CNN
+	1    2450 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW4
+U 1 1 63EFEC5D
+P 2950 5350
+F 0 "SW4" H 2950 5585 50  0000 C CNN
+F 1 "6" H 2950 5494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2950 5350 50  0001 C CNN
+F 3 "~" H 2950 5350 50  0001 C CNN
+	1    2950 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW12
+U 1 1 63EFEDC6
+P 2950 4950
+F 0 "SW12" H 2950 5185 50  0000 C CNN
+F 1 "5" H 2950 5094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2950 4950 50  0001 C CNN
+F 3 "~" H 2950 4950 50  0001 C CNN
+	1    2950 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW20
+U 1 1 63EFEEF3
+P 2950 4550
+F 0 "SW20" H 2950 4785 50  0000 C CNN
+F 1 "4" H 2950 4694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2950 4550 50  0001 C CNN
+F 3 "~" H 2950 4550 50  0001 C CNN
+	1    2950 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW28
+U 1 1 63EFF020
+P 2950 4150
+F 0 "SW28" H 2950 4385 50  0000 C CNN
+F 1 "; +" H 2950 4294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2950 4150 50  0001 C CNN
+F 3 "~" H 2950 4150 50  0001 C CNN
+	1    2950 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW36
+U 1 1 63EFF14D
+P 2950 3750
+F 0 "SW36" H 2950 3985 50  0000 C CNN
+F 1 "L" H 2950 3894 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2950 3750 50  0001 C CNN
+F 3 "~" H 2950 3750 50  0001 C CNN
+	1    2950 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW44
+U 1 1 63EFF28E
+P 2950 3350
+F 0 "SW44" H 2950 3585 50  0000 C CNN
+F 1 "H" H 2950 3494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2950 3350 50  0001 C CNN
+F 3 "~" H 2950 3350 50  0001 C CNN
+	1    2950 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW52
+U 1 1 63EFF3BB
+P 2950 2950
+F 0 "SW52" H 2950 3185 50  0000 C CNN
+F 1 "G" H 2950 3094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2950 2950 50  0001 C CNN
+F 3 "~" H 2950 2950 50  0001 C CNN
+	1    2950 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW60
+U 1 1 63EFF4E8
+P 2950 2550
+F 0 "SW60" H 2950 2785 50  0000 C CNN
+F 1 "S" H 2950 2694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 2950 2550 50  0001 C CNN
+F 3 "~" H 2950 2550 50  0001 C CNN
+	1    2950 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW61
+U 1 1 63EFF615
+P 3450 2550
+F 0 "SW61" H 3450 2785 50  0000 C CNN
+F 1 "D" H 3450 2694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3450 2550 50  0001 C CNN
+F 3 "~" H 3450 2550 50  0001 C CNN
+	1    3450 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW53
+U 1 1 63EFF832
+P 3450 2950
+F 0 "SW53" H 3450 3185 50  0000 C CNN
+F 1 "F" H 3450 3094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3450 2950 50  0001 C CNN
+F 3 "~" H 3450 2950 50  0001 C CNN
+	1    3450 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW45
+U 1 1 63EFF95F
+P 3450 3350
+F 0 "SW45" H 3450 3585 50  0000 C CNN
+F 1 "J" H 3450 3494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3450 3350 50  0001 C CNN
+F 3 "~" H 3450 3350 50  0001 C CNN
+	1    3450 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW37
+U 1 1 63EFFA8C
+P 3450 3750
+F 0 "SW37" H 3450 3985 50  0000 C CNN
+F 1 "K" H 3450 3894 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3450 3750 50  0001 C CNN
+F 3 "~" H 3450 3750 50  0001 C CNN
+	1    3450 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW29
+U 1 1 63EFFBB9
+P 3450 4150
+F 0 "SW29" H 3450 4385 50  0000 C CNN
+F 1 ": *" H 3450 4294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3450 4150 50  0001 C CNN
+F 3 "~" H 3450 4150 50  0001 C CNN
+	1    3450 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW21
+U 1 1 63EFFCE6
+P 3450 4550
+F 0 "SW21" H 3450 4785 50  0000 C CNN
+F 1 "SHIFT" H 3450 4694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3450 4550 50  0001 C CNN
+F 3 "~" H 3450 4550 50  0001 C CNN
+	1    3450 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW13
+U 1 1 63EFFE13
+P 3450 4950
+F 0 "SW13" H 3450 5185 50  0000 C CNN
+F 1 "1" H 3450 5094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3450 4950 50  0001 C CNN
+F 3 "~" H 3450 4950 50  0001 C CNN
+	1    3450 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW5
+U 1 1 63EFFF40
+P 3450 5350
+F 0 "SW5" H 3450 5585 50  0000 C CNN
+F 1 "3" H 3450 5494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3450 5350 50  0001 C CNN
+F 3 "~" H 3450 5350 50  0001 C CNN
+	1    3450 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW6
+U 1 1 63F00068
+P 3950 5350
+F 0 "SW6" H 3950 5585 50  0000 C CNN
+F 1 "ENTER" H 3950 5494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3950 5350 50  0001 C CNN
+F 3 "~" H 3950 5350 50  0001 C CNN
+	1    3950 5350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW14
+U 1 1 63F001D1
+P 3950 4950
+F 0 "SW14" H 3950 5185 50  0000 C CNN
+F 1 "2" H 3950 5094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3950 4950 50  0001 C CNN
+F 3 "~" H 3950 4950 50  0001 C CNN
+	1    3950 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW22
+U 1 1 63F002FE
+P 3950 4550
+F 0 "SW22" H 3950 4785 50  0000 C CNN
+F 1 "\\" H 3950 4694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3950 4550 50  0001 C CNN
+F 3 "~" H 3950 4550 50  0001 C CNN
+	1    3950 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW30
+U 1 1 63F00444
+P 3950 4150
+F 0 "SW30" H 3950 4385 50  0000 C CNN
+F 1 "/ ?" H 3950 4294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3950 4150 50  0001 C CNN
+F 3 "~" H 3950 4150 50  0001 C CNN
+	1    3950 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW38
+U 1 1 63F00571
+P 3950 3750
+F 0 "SW38" H 3950 3985 50  0000 C CNN
+F 1 "M" H 3950 3894 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3950 3750 50  0001 C CNN
+F 3 "~" H 3950 3750 50  0001 C CNN
+	1    3950 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW46
+U 1 1 63F0069E
+P 3950 3350
+F 0 "SW46" H 3950 3585 50  0000 C CNN
+F 1 "N" H 3950 3494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3950 3350 50  0001 C CNN
+F 3 "~" H 3950 3350 50  0001 C CNN
+	1    3950 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW54
+U 1 1 63F007CB
+P 3950 2950
+F 0 "SW54" H 3950 3185 50  0000 C CNN
+F 1 "B" H 3950 3094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3950 2950 50  0001 C CNN
+F 3 "~" H 3950 2950 50  0001 C CNN
+	1    3950 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW62
+U 1 1 63F008F8
+P 3950 2550
+F 0 "SW62" H 3950 2785 50  0000 C CNN
+F 1 "C" H 3950 2694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3950 2550 50  0001 C CNN
+F 3 "~" H 3950 2550 50  0001 C CNN
+	1    3950 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW63
+U 1 1 63F00A25
+P 4450 2550
+F 0 "SW63" H 4450 2785 50  0000 C CNN
+F 1 "X" H 4450 2694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 4450 2550 50  0001 C CNN
+F 3 "~" H 4450 2550 50  0001 C CNN
+	1    4450 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW55
+U 1 1 63F00C42
+P 4450 2950
+F 0 "SW55" H 4450 3185 50  0000 C CNN
+F 1 "V" H 4450 3094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 4450 2950 50  0001 C CNN
+F 3 "~" H 4450 2950 50  0001 C CNN
+	1    4450 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW47
+U 1 1 63F00D6F
+P 4450 3350
+F 0 "SW47" H 4450 3585 50  0000 C CNN
+F 1 "SPACE" H 4450 3494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 4450 3350 50  0001 C CNN
+F 3 "~" H 4450 3350 50  0001 C CNN
+	1    4450 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW39
+U 1 1 63F00E9C
+P 4450 3750
+F 0 "SW39" H 4450 3985 50  0000 C CNN
+F 1 ", <" H 4450 3894 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 4450 3750 50  0001 C CNN
+F 3 "~" H 4450 3750 50  0001 C CNN
+	1    4450 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW31
+U 1 1 63F00FC9
+P 4450 4150
+F 0 "SW31" H 4450 4385 50  0000 C CNN
+F 1 ". >" H 4450 4294 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 4450 4150 50  0001 C CNN
+F 3 "~" H 4450 4150 50  0001 C CNN
+	1    4450 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW23
+U 1 1 63F010F6
+P 4450 4550
+F 0 "SW23" H 4450 4785 50  0000 C CNN
+F 1 "CTRL" H 4450 4694 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 4450 4550 50  0001 C CNN
+F 3 "~" H 4450 4550 50  0001 C CNN
+	1    4450 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW15
+U 1 1 63F01223
+P 4450 4950
+F 0 "SW15" H 4450 5185 50  0000 C CNN
+F 1 "0" H 4450 5094 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 4450 4950 50  0001 C CNN
+F 3 "~" H 4450 4950 50  0001 C CNN
+	1    4450 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPST SW7
+U 1 1 63F01350
+P 4450 5350
+F 0 "SW7" H 4450 5585 50  0000 C CNN
+F 1 "." H 4450 5494 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 4450 5350 50  0001 C CNN
+F 3 "~" H 4450 5350 50  0001 C CNN
+	1    4450 5350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	750  2150 750  2550
+Connection ~ 750  2150
+Connection ~ 750  2550
+Wire Wire Line
+	750  2550 750  2950
+Connection ~ 750  2950
+Wire Wire Line
+	750  2950 750  3350
+Connection ~ 750  3350
+Wire Wire Line
+	750  3350 750  3750
+Connection ~ 750  3750
+Wire Wire Line
+	750  3750 750  4150
+Connection ~ 750  4150
+Wire Wire Line
+	750  4150 750  4550
+Connection ~ 750  4550
+Wire Wire Line
+	750  4550 750  4950
+Connection ~ 750  4950
+Wire Wire Line
+	750  4950 750  5350
+Wire Wire Line
+	1250 1350 1250 2150
+Connection ~ 1250 2150
+Wire Wire Line
+	1250 2150 1250 2550
+Connection ~ 1250 2550
+Wire Wire Line
+	1250 2550 1250 2950
+Connection ~ 1250 2950
+Wire Wire Line
+	1250 2950 1250 3350
+Connection ~ 1250 3350
+Wire Wire Line
+	1250 3350 1250 3750
+Connection ~ 1250 3750
+Wire Wire Line
+	1250 3750 1250 4150
+Connection ~ 1250 4150
+Wire Wire Line
+	1250 4150 1250 4550
+Connection ~ 1250 4550
+Wire Wire Line
+	1250 4550 1250 4950
+Connection ~ 1250 4950
+Wire Wire Line
+	1250 4950 1250 5350
+Wire Wire Line
+	1750 5350 1750 4950
+Connection ~ 1750 2150
+Wire Wire Line
+	1750 2150 1750 1350
+Connection ~ 1750 2550
+Wire Wire Line
+	1750 2550 1750 2150
+Connection ~ 1750 2950
+Wire Wire Line
+	1750 2950 1750 2550
+Connection ~ 1750 3350
+Wire Wire Line
+	1750 3350 1750 2950
+Connection ~ 1750 3750
+Wire Wire Line
+	1750 3750 1750 3350
+Connection ~ 1750 4150
+Wire Wire Line
+	1750 4150 1750 3750
+Connection ~ 1750 4550
+Wire Wire Line
+	1750 4550 1750 4150
+Connection ~ 1750 4950
+Wire Wire Line
+	1750 4950 1750 4550
+Wire Wire Line
+	2250 1350 2250 2150
+Connection ~ 2250 2150
+Wire Wire Line
+	2250 2150 2250 2550
+Connection ~ 2250 2550
+Wire Wire Line
+	2250 2550 2250 2950
+Connection ~ 2250 2950
+Wire Wire Line
+	2250 2950 2250 3350
+Connection ~ 2250 3350
+Wire Wire Line
+	2250 3350 2250 3750
+Connection ~ 2250 3750
+Wire Wire Line
+	2250 3750 2250 4150
+Connection ~ 2250 4150
+Wire Wire Line
+	2250 4150 2250 4550
+Connection ~ 2250 4550
+Wire Wire Line
+	2250 4550 2250 4950
+Connection ~ 2250 4950
+Wire Wire Line
+	2250 4950 2250 5350
+Wire Wire Line
+	2750 5350 2750 4950
+Connection ~ 2750 2150
+Wire Wire Line
+	2750 2150 2750 1350
+Connection ~ 2750 2550
+Wire Wire Line
+	2750 2550 2750 2150
+Connection ~ 2750 2950
+Wire Wire Line
+	2750 2950 2750 2550
+Connection ~ 2750 3350
+Wire Wire Line
+	2750 3350 2750 2950
+Connection ~ 2750 3750
+Wire Wire Line
+	2750 3750 2750 3350
+Connection ~ 2750 4150
+Wire Wire Line
+	2750 4150 2750 3750
+Connection ~ 2750 4550
+Wire Wire Line
+	2750 4550 2750 4150
+Connection ~ 2750 4950
+Wire Wire Line
+	2750 4950 2750 4550
+Wire Wire Line
+	3250 1350 3250 2150
+Connection ~ 3250 2150
+Wire Wire Line
+	3250 2150 3250 2550
+Connection ~ 3250 2550
+Wire Wire Line
+	3250 2550 3250 2950
+Connection ~ 3250 2950
+Wire Wire Line
+	3250 2950 3250 3350
+Connection ~ 3250 3350
+Wire Wire Line
+	3250 3350 3250 3750
+Connection ~ 3250 3750
+Wire Wire Line
+	3250 3750 3250 4150
+Connection ~ 3250 4150
+Wire Wire Line
+	3250 4150 3250 4550
+Connection ~ 3250 4550
+Wire Wire Line
+	3250 4550 3250 4950
+Connection ~ 3250 4950
+Wire Wire Line
+	3250 4950 3250 5350
+Wire Wire Line
+	3750 5350 3750 4950
+Connection ~ 3750 2150
+Wire Wire Line
+	3750 2150 3750 1350
+Connection ~ 3750 2550
+Wire Wire Line
+	3750 2550 3750 2150
+Connection ~ 3750 2950
+Wire Wire Line
+	3750 2950 3750 2550
+Connection ~ 3750 3350
+Wire Wire Line
+	3750 3350 3750 2950
+Connection ~ 3750 3750
+Wire Wire Line
+	3750 3750 3750 3350
+Connection ~ 3750 4150
+Wire Wire Line
+	3750 4150 3750 3750
+Connection ~ 3750 4550
+Wire Wire Line
+	3750 4550 3750 4150
+Connection ~ 3750 4950
+Wire Wire Line
+	3750 4950 3750 4550
+Wire Wire Line
+	4250 1350 4250 2150
+Connection ~ 4250 2150
+Wire Wire Line
+	4250 2150 4250 2550
+Connection ~ 4250 2550
+Wire Wire Line
+	4250 2550 4250 2950
+Connection ~ 4250 2950
+Wire Wire Line
+	4250 2950 4250 3350
+Connection ~ 4250 3350
+Wire Wire Line
+	4250 3350 4250 3750
+Connection ~ 4250 3750
+Wire Wire Line
+	4250 3750 4250 4150
+Connection ~ 4250 4150
+Wire Wire Line
+	4250 4150 4250 4550
+Connection ~ 4250 4550
+Wire Wire Line
+	4250 4550 4250 4950
+Connection ~ 4250 4950
+Wire Wire Line
+	4250 4950 4250 5350
+Wire Wire Line
+	4750 2250 4650 2250
+Wire Wire Line
+	1150 2250 1150 2550
+Wire Wire Line
+	4750 2650 4650 2650
+Wire Wire Line
+	1150 2650 1150 2950
+Wire Wire Line
+	4750 3050 4650 3050
+Wire Wire Line
+	1150 3050 1150 3350
+Wire Wire Line
+	4750 3450 4650 3450
+Wire Wire Line
+	1150 3450 1150 3750
+Wire Wire Line
+	4750 3850 4650 3850
+Wire Wire Line
+	1150 3850 1150 4150
+Wire Wire Line
+	4750 4250 4650 4250
+Wire Wire Line
+	1150 4250 1150 4550
+Wire Wire Line
+	4750 4650 4650 4650
+Wire Wire Line
+	1150 4650 1150 4950
+Wire Wire Line
+	4750 5050 4650 5050
+Wire Wire Line
+	1150 5050 1150 5350
+Wire Wire Line
+	1650 5350 1650 5050
+Connection ~ 1650 5050
+Wire Wire Line
+	1650 5050 1150 5050
+Wire Wire Line
+	1650 4950 1650 4650
+Connection ~ 1650 4650
+Wire Wire Line
+	1650 4650 1150 4650
+Wire Wire Line
+	1650 4550 1650 4250
+Connection ~ 1650 4250
+Wire Wire Line
+	1650 4250 1150 4250
+Wire Wire Line
+	1650 4150 1650 3850
+Connection ~ 1650 3850
+Wire Wire Line
+	1650 3850 1150 3850
+Wire Wire Line
+	1650 3750 1650 3450
+Connection ~ 1650 3450
+Wire Wire Line
+	1650 3450 1150 3450
+Wire Wire Line
+	1650 3350 1650 3050
+Connection ~ 1650 3050
+Wire Wire Line
+	1650 3050 1150 3050
+Wire Wire Line
+	1650 2950 1650 2650
+Connection ~ 1650 2650
+Wire Wire Line
+	1650 2650 1150 2650
+Wire Wire Line
+	1650 2550 1650 2250
+Connection ~ 1650 2250
+Wire Wire Line
+	1650 2250 1150 2250
+Wire Wire Line
+	1650 2150 1650 1850
+Connection ~ 1650 1850
+Wire Wire Line
+	1650 1850 2150 1850
+Wire Wire Line
+	2150 1850 2150 2150
+Connection ~ 2150 1850
+Wire Wire Line
+	2150 1850 2650 1850
+Wire Wire Line
+	2150 2250 2150 2550
+Connection ~ 2150 2250
+Wire Wire Line
+	2150 2250 1650 2250
+Wire Wire Line
+	2150 2650 2150 2950
+Connection ~ 2150 2650
+Wire Wire Line
+	2150 2650 1650 2650
+Wire Wire Line
+	2150 3050 2150 3350
+Connection ~ 2150 3050
+Wire Wire Line
+	2150 3050 1650 3050
+Wire Wire Line
+	2150 3450 2150 3750
+Connection ~ 2150 3450
+Wire Wire Line
+	2150 3450 1650 3450
+Wire Wire Line
+	2150 3850 2150 4150
+Connection ~ 2150 3850
+Wire Wire Line
+	2150 3850 1650 3850
+Wire Wire Line
+	2150 4250 2150 4550
+Connection ~ 2150 4250
+Wire Wire Line
+	2150 4250 1650 4250
+Wire Wire Line
+	2150 4650 2150 4950
+Connection ~ 2150 4650
+Wire Wire Line
+	2150 4650 1650 4650
+Wire Wire Line
+	2150 5050 2150 5350
+Connection ~ 2150 5050
+Wire Wire Line
+	2150 5050 1650 5050
+Wire Wire Line
+	2650 5350 2650 5050
+Connection ~ 2650 5050
+Wire Wire Line
+	2650 5050 2150 5050
+Wire Wire Line
+	2650 4650 2650 4950
+Connection ~ 2650 4650
+Wire Wire Line
+	2650 4650 2150 4650
+Wire Wire Line
+	2650 4550 2650 4250
+Connection ~ 2650 4250
+Wire Wire Line
+	2650 4250 2150 4250
+Wire Wire Line
+	2650 4150 2650 3850
+Connection ~ 2650 3850
+Wire Wire Line
+	2650 3850 2150 3850
+Wire Wire Line
+	2650 3750 2650 3450
+Connection ~ 2650 3450
+Wire Wire Line
+	2650 3450 2150 3450
+Wire Wire Line
+	2650 3350 2650 3050
+Connection ~ 2650 3050
+Wire Wire Line
+	2650 3050 2150 3050
+Wire Wire Line
+	2650 2950 2650 2650
+Connection ~ 2650 2650
+Wire Wire Line
+	2650 2650 2150 2650
+Wire Wire Line
+	2650 2550 2650 2250
+Connection ~ 2650 2250
+Wire Wire Line
+	2650 2250 2150 2250
+Wire Wire Line
+	2650 2150 2650 1850
+Connection ~ 2650 1850
+Wire Wire Line
+	2650 1850 3150 1850
+Wire Wire Line
+	3150 1850 3150 2150
+Connection ~ 3150 1850
+Wire Wire Line
+	3150 1850 3650 1850
+Wire Wire Line
+	3150 2250 3150 2550
+Connection ~ 3150 2250
+Wire Wire Line
+	3150 2250 2650 2250
+Wire Wire Line
+	3150 2650 3150 2950
+Connection ~ 3150 2650
+Wire Wire Line
+	3150 2650 2650 2650
+Wire Wire Line
+	3150 3050 3150 3350
+Connection ~ 3150 3050
+Wire Wire Line
+	3150 3050 2650 3050
+Wire Wire Line
+	3150 3450 3150 3750
+Connection ~ 3150 3450
+Wire Wire Line
+	3150 3450 2650 3450
+Wire Wire Line
+	3150 3850 3150 4150
+Connection ~ 3150 3850
+Wire Wire Line
+	3150 3850 2650 3850
+Wire Wire Line
+	3150 4250 3150 4550
+Connection ~ 3150 4250
+Wire Wire Line
+	3150 4250 2650 4250
+Wire Wire Line
+	3150 4650 3150 4950
+Connection ~ 3150 4650
+Wire Wire Line
+	3150 4650 2650 4650
+Wire Wire Line
+	3150 5050 3150 5350
+Connection ~ 3150 5050
+Wire Wire Line
+	3150 5050 2650 5050
+Wire Wire Line
+	3650 5350 3650 5050
+Connection ~ 3650 5050
+Wire Wire Line
+	3650 5050 3150 5050
+Wire Wire Line
+	3650 4950 3650 4650
+Connection ~ 3650 4650
+Wire Wire Line
+	3650 4650 3150 4650
+Wire Wire Line
+	3650 4550 3650 4250
+Connection ~ 3650 4250
+Wire Wire Line
+	3650 4250 3150 4250
+Wire Wire Line
+	3650 4150 3650 3850
+Connection ~ 3650 3850
+Wire Wire Line
+	3650 3850 3150 3850
+Wire Wire Line
+	3650 3750 3650 3450
+Connection ~ 3650 3450
+Wire Wire Line
+	3650 3450 3150 3450
+Wire Wire Line
+	3650 3350 3650 3050
+Connection ~ 3650 3050
+Wire Wire Line
+	3650 3050 3150 3050
+Wire Wire Line
+	3650 2950 3650 2650
+Connection ~ 3650 2650
+Wire Wire Line
+	3650 2650 3150 2650
+Wire Wire Line
+	3650 2550 3650 2250
+Connection ~ 3650 2250
+Wire Wire Line
+	3650 2250 3150 2250
+Wire Wire Line
+	3650 2150 3650 1850
+Connection ~ 3650 1850
+Wire Wire Line
+	3650 1850 4150 1850
+Wire Wire Line
+	4150 1850 4150 2150
+Connection ~ 4150 1850
+Wire Wire Line
+	4150 1850 4650 1850
+Wire Wire Line
+	4150 2250 4150 2550
+Connection ~ 4150 2250
+Wire Wire Line
+	4150 2250 3650 2250
+Wire Wire Line
+	4150 2650 4150 2950
+Connection ~ 4150 2650
+Wire Wire Line
+	4150 2650 3650 2650
+Wire Wire Line
+	4150 3050 4150 3350
+Connection ~ 4150 3050
+Wire Wire Line
+	4150 3050 3650 3050
+Wire Wire Line
+	4150 3450 4150 3750
+Connection ~ 4150 3450
+Wire Wire Line
+	4150 3450 3650 3450
+Wire Wire Line
+	4150 3850 4150 4150
+Connection ~ 4150 3850
+Wire Wire Line
+	4150 3850 3650 3850
+Wire Wire Line
+	4150 4250 4150 4550
+Connection ~ 4150 4250
+Wire Wire Line
+	4150 4250 3650 4250
+Wire Wire Line
+	4150 4650 4150 4950
+Connection ~ 4150 4650
+Wire Wire Line
+	4150 4650 3650 4650
+Wire Wire Line
+	4150 5050 4150 5350
+Connection ~ 4150 5050
+Wire Wire Line
+	4150 5050 3650 5050
+Wire Wire Line
+	4650 5350 4650 5050
+Connection ~ 4650 5050
+Wire Wire Line
+	4650 5050 4150 5050
+Wire Wire Line
+	4650 4950 4650 4650
+Connection ~ 4650 4650
+Wire Wire Line
+	4650 4650 4150 4650
+Wire Wire Line
+	4650 4550 4650 4250
+Connection ~ 4650 4250
+Wire Wire Line
+	4650 4250 4150 4250
+Wire Wire Line
+	4650 4150 4650 3850
+Connection ~ 4650 3850
+Wire Wire Line
+	4650 3850 4150 3850
+Wire Wire Line
+	4650 3750 4650 3450
+Connection ~ 4650 3450
+Wire Wire Line
+	4650 3450 4150 3450
+Wire Wire Line
+	4650 3350 4650 3050
+Connection ~ 4650 3050
+Wire Wire Line
+	4650 3050 4150 3050
+Wire Wire Line
+	4650 2950 4650 2650
+Connection ~ 4650 2650
+Wire Wire Line
+	4650 2650 4150 2650
+Wire Wire Line
+	4650 2550 4650 2250
+Connection ~ 4650 2250
+Wire Wire Line
+	4650 2250 4150 2250
+Wire Wire Line
+	4650 2150 4650 1850
+Connection ~ 4650 1850
+Wire Wire Line
+	4650 1850 4750 1850
+$Comp
+L Switch:SW_SPST SW121
+U 1 1 640FA8AB
+P 3450 5900
+F 0 "SW121" H 3450 6135 50  0000 C CNN
+F 1 "SHIFT" H 3450 6044 50  0000 C CNN
+F 2 "CPCKeyboard:SKHCBEA010" H 3450 5900 50  0001 C CNN
+F 3 "~" H 3450 5900 50  0001 C CNN
+	1    3450 5900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3750 5900 3650 5900
+Wire Wire Line
+	3250 5900 3250 5350
+Connection ~ 3250 5350
+Text Notes 5550 6300 0    50   ~ 0
+Notes:\nPin labels as per the CPC mainboard schematic.\nSchematic as per service manuals.\nObviously X9 and Y10 should be swapped _shrug_.\nAlso, X8 and X9 are shorted on the CPC, so SW79\ncould be above SW71 without affecting anything.\nAnd, on my 6128, Y9 is not present on the ribbon\nconnector.
+Text GLabel 6950 1250 0    50   Input ~ 0
+X8
+Text GLabel 3750 5900 2    50   Input ~ 0
+Y3
+Text GLabel 7400 2300 0    50   Output ~ 0
+Y2
+Text GLabel 7400 2400 0    50   Output ~ 0
+Y1
+Text GLabel 7400 2200 0    50   Output ~ 0
+Y3
+Text GLabel 7400 2100 0    50   Output ~ 0
+Y4
+Text GLabel 7400 2000 0    50   Output ~ 0
+Y5
+Text GLabel 7400 1900 0    50   Output ~ 0
+Y6
+Text GLabel 7400 1800 0    50   Output ~ 0
+Y7
+Text GLabel 7400 1700 0    50   Output ~ 0
+Y8
+Text GLabel 7400 1600 0    50   Output ~ 0
+Y9
+Wire Wire Line
+	7400 1600 7500 1600
+Wire Wire Line
+	7500 1700 7400 1700
+Wire Wire Line
+	7400 1800 7500 1800
+Wire Wire Line
+	7500 1900 7400 1900
+Wire Wire Line
+	7400 2000 7500 2000
+Wire Wire Line
+	7500 2100 7400 2100
+Wire Wire Line
+	7400 2200 7500 2200
+Wire Wire Line
+	7500 2300 7400 2300
+Wire Wire Line
+	7500 2400 7400 2400
+Text GLabel 6950 1750 0    50   Output ~ 0
+Y10
+Text Notes 7200 1050 0    50   ~ 0
+CPC464 or CPC6128 membrane keyboard
+$Comp
+L Jumper:Jumper_3_Open JP1
+U 1 1 6425E218
+P 7050 1500
+F 0 "JP1" V 7004 1587 50  0000 L CNN
+F 1 "Jumper_3_Open" V 7095 1587 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 7050 1500 50  0001 C CNN
+F 3 "~" H 7050 1500 50  0001 C CNN
+	1    7050 1500
+	0    -1   1    0   
+$EndComp
+Wire Wire Line
+	7200 1500 7500 1500
+Wire Wire Line
+	7050 1750 6950 1750
+Wire Wire Line
+	7050 1250 6950 1250
+Text Notes 6500 1300 0    50   ~ 0
+CPC464
+Text Notes 6400 1800 0    50   ~ 0
+CPC6128
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 64400CF6
+P 950 6350
+F 0 "H1" H 1050 6396 50  0000 L CNN
+F 1 "MountingHole" H 1050 6305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 950 6350 50  0001 C CNN
+F 3 "~" H 950 6350 50  0001 C CNN
+	1    950  6350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 64401A36
+P 950 6550
+F 0 "H2" H 1050 6596 50  0000 L CNN
+F 1 "MountingHole" H 1050 6505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 950 6550 50  0001 C CNN
+F 3 "~" H 950 6550 50  0001 C CNN
+	1    950  6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 64401ACC
+P 950 6750
+F 0 "H3" H 1050 6796 50  0000 L CNN
+F 1 "MountingHole" H 1050 6705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 950 6750 50  0001 C CNN
+F 3 "~" H 950 6750 50  0001 C CNN
+	1    950  6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 64401B7D
+P 950 6950
+F 0 "H4" H 1050 6996 50  0000 L CNN
+F 1 "MountingHole" H 1050 6905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 950 6950 50  0001 C CNN
+F 3 "~" H 950 6950 50  0001 C CNN
+	1    950  6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 64401C02
+P 950 7150
+F 0 "H5" H 1050 7196 50  0000 L CNN
+F 1 "MountingHole" H 1050 7105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 950 7150 50  0001 C CNN
+F 3 "~" H 950 7150 50  0001 C CNN
+	1    950  7150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H11
+U 1 1 64402051
+P 2350 6350
+F 0 "H11" H 2450 6396 50  0000 L CNN
+F 1 "MountingHole" H 2450 6305 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 2350 6350 50  0001 C CNN
+F 3 "~" H 2350 6350 50  0001 C CNN
+	1    2350 6350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H12
+U 1 1 644021B2
+P 2350 6550
+F 0 "H12" H 2450 6596 50  0000 L CNN
+F 1 "MountingHole" H 2450 6505 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 2350 6550 50  0001 C CNN
+F 3 "~" H 2350 6550 50  0001 C CNN
+	1    2350 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H13
+U 1 1 64402243
+P 2350 6750
+F 0 "H13" H 2450 6796 50  0000 L CNN
+F 1 "MountingHole" H 2450 6705 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 2350 6750 50  0001 C CNN
+F 3 "~" H 2350 6750 50  0001 C CNN
+	1    2350 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H14
+U 1 1 644022C8
+P 2350 6950
+F 0 "H14" H 2450 6996 50  0000 L CNN
+F 1 "MountingHole" H 2450 6905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 2350 6950 50  0001 C CNN
+F 3 "~" H 2350 6950 50  0001 C CNN
+	1    2350 6950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H15
+U 1 1 6440234D
+P 2350 7150
+F 0 "H15" H 2450 7196 50  0000 L CNN
+F 1 "MountingHole" H 2450 7105 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_DIN965" H 2350 7150 50  0001 C CNN
+F 3 "~" H 2350 7150 50  0001 C CNN
+	1    2350 7150
+	1    0    0    -1  
+$EndComp
+Text Notes 7250 1500 0    50   ~ 0
+PIN 11
+Text Notes 7300 2550 0    50   ~ 0
+PIN 20
+$Comp
+L Connector_Generic:Conn_02x10_Odd_Even J2
+U 1 1 657DC1EC
+P 10250 2000
+F 0 "J2" H 10300 1275 50  0000 C CNN
+F 1 "CPC Modular" H 10300 1366 50  0000 C CNN
+F 2 "Connector_IDC:IDC-Header_2x10_P2.54mm_Vertical" H 10250 2000 50  0001 C CNN
+F 3 "~" H 10250 2000 50  0001 C CNN
+	1    10250 2000
+	-1   0    0    1   
+$EndComp
+NoConn ~ 10450 1500
+NoConn ~ 10450 2400
+Text GLabel 10550 1600 2    50   Input ~ 0
+X1
+Text GLabel 10550 1700 2    50   Input ~ 0
+X2
+Text GLabel 10550 1800 2    50   Input ~ 0
+X3
+Text GLabel 10550 1900 2    50   Input ~ 0
+X4
+Text GLabel 10550 2000 2    50   Input ~ 0
+X5
+Text GLabel 10550 2100 2    50   Input ~ 0
+X6
+Text GLabel 10550 2200 2    50   Input ~ 0
+X7
+Text GLabel 10550 2300 2    50   Input ~ 0
+X8
+Text GLabel 9850 2400 0    50   Output ~ 0
+Y1
+Text GLabel 9850 2300 0    50   Output ~ 0
+Y2
+Text GLabel 9850 2200 0    50   Output ~ 0
+Y3
+Text GLabel 9850 2100 0    50   Output ~ 0
+Y4
+Text GLabel 9850 2000 0    50   Output ~ 0
+Y5
+Text GLabel 9850 1900 0    50   Output ~ 0
+Y6
+Text GLabel 9850 1800 0    50   Output ~ 0
+Y7
+Text GLabel 9850 1700 0    50   Output ~ 0
+Y8
+Text GLabel 9850 1600 0    50   Output ~ 0
+Y9
+Text GLabel 9850 1500 0    50   Output ~ 0
+Y10
+Wire Wire Line
+	9950 2400 9850 2400
+Wire Wire Line
+	9850 2300 9950 2300
+Wire Wire Line
+	9950 2200 9850 2200
+Wire Wire Line
+	9850 2100 9950 2100
+Wire Wire Line
+	9950 2000 9850 2000
+Wire Wire Line
+	9850 1900 9950 1900
+Wire Wire Line
+	9950 1800 9850 1800
+Wire Wire Line
+	9850 1700 9950 1700
+Wire Wire Line
+	9950 1600 9850 1600
+Wire Wire Line
+	9850 1500 9950 1500
+Wire Wire Line
+	10450 1600 10550 1600
+Wire Wire Line
+	10550 1700 10450 1700
+Wire Wire Line
+	10450 1800 10550 1800
+Wire Wire Line
+	10550 1900 10450 1900
+Wire Wire Line
+	10450 2000 10550 2000
+Wire Wire Line
+	10550 2100 10450 2100
+Wire Wire Line
+	10450 2200 10550 2200
+Wire Wire Line
+	10550 2300 10450 2300
+$Comp
+L Connector_Generic:Conn_02x10_Odd_Even J1
+U 1 1 65A1107A
+P 7800 2000
+F 0 "J1" H 7850 1275 50  0000 C CNN
+F 1 "Membrane 464/6128" H 7950 1200 50  0000 C CNN
+F 2 "Connector_IDC:IDC-Header_2x10_P2.54mm_Vertical" H 7800 2000 50  0001 C CNN
+F 3 "~" H 7800 2000 50  0001 C CNN
+	1    7800 2000
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8650 2300 8750 2300
+Wire Wire Line
+	8450 2300 8150 2300
+Wire Wire Line
+	8350 1500 8450 1500
+Wire Wire Line
+	8000 1500 8150 1500
+Text Notes 9100 2450 2    50   ~ 0
+CPC6128
+$Comp
+L Device:Jumper_NC_Small JP3
+U 1 1 642D440F
+P 8550 2300
+F 0 "JP3" H 8550 2512 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 8550 2421 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 8550 2300 50  0001 C CNN
+F 3 "~" H 8550 2300 50  0001 C CNN
+	1    8550 2300
+	-1   0    0    -1  
+$EndComp
+Text Notes 8950 1550 2    50   ~ 0
+CPC464
+$Comp
+L Device:Jumper_NC_Small JP2
+U 1 1 642D3351
+P 8250 1500
+F 0 "JP2" H 8250 1712 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 8250 1621 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 8250 1500 50  0001 C CNN
+F 3 "~" H 8250 1500 50  0001 C CNN
+	1    8250 1500
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	8150 2300 8000 2300
+Connection ~ 8150 2300
+Wire Wire Line
+	8150 2400 8150 2300
+Wire Wire Line
+	8250 2400 8150 2400
+Wire Wire Line
+	8100 2200 8000 2200
+Wire Wire Line
+	8000 2100 8100 2100
+Wire Wire Line
+	8100 2000 8000 2000
+Wire Wire Line
+	8000 1900 8100 1900
+Wire Wire Line
+	8100 1800 8000 1800
+Wire Wire Line
+	8000 1700 8100 1700
+Wire Wire Line
+	8100 1600 8000 1600
+Text GLabel 8250 2400 2    50   Input ~ 0
+X9
+Text GLabel 8100 2200 2    50   Input ~ 0
+X7
+Text GLabel 8100 2100 2    50   Input ~ 0
+X6
+Text GLabel 8100 2000 2    50   Input ~ 0
+X5
+Text GLabel 8100 1900 2    50   Input ~ 0
+X4
+Text GLabel 8100 1800 2    50   Input ~ 0
+X3
+Text GLabel 8100 1700 2    50   Input ~ 0
+X2
+Text GLabel 8100 1600 2    50   Input ~ 0
+X1
+Text GLabel 8750 2300 2    50   Input ~ 0
+X8
+Text GLabel 8450 1500 2    50   Output ~ 0
+Y10
+NoConn ~ 8000 2400
+$Comp
+L Connector_Generic:Conn_02x10_Odd_Even J3
+U 1 1 65ACAF47
+P 7800 4150
+F 0 "J3" H 7850 3425 50  0000 C CNN
+F 1 "464 PCB (Inline)" H 7850 3516 50  0000 C CNN
+F 2 "Connector_IDC:IDC-Header_2x10_P2.54mm_Vertical" H 7800 4150 50  0001 C CNN
+F 3 "~" H 7800 4150 50  0001 C CNN
+	1    7800 4150
+	-1   0    0    1   
+$EndComp
+Text GLabel 7400 3650 0    50   Input ~ 0
+X9
+Text GLabel 7400 3750 0    50   Input ~ 0
+X1
+Text GLabel 7400 3850 0    50   Input ~ 0
+X3
+Text GLabel 7400 3950 0    50   Input ~ 0
+X5
+Text GLabel 7400 4050 0    50   Input ~ 0
+X7
+Text GLabel 7400 4150 0    50   Output ~ 0
+Y9
+Text GLabel 7400 4250 0    50   Output ~ 0
+Y7
+Text GLabel 7400 4350 0    50   Output ~ 0
+Y5
+Text GLabel 7400 4450 0    50   Output ~ 0
+Y3
+Text GLabel 7400 4550 0    50   Output ~ 0
+Y1
+Text GLabel 8100 3650 2    50   Output ~ 0
+Y10
+Text GLabel 8100 3750 2    50   Input ~ 0
+X2
+Text GLabel 8100 3850 2    50   Input ~ 0
+X4
+Text GLabel 8100 3950 2    50   Input ~ 0
+X6
+Text GLabel 8100 4050 2    50   Input ~ 0
+X8
+Text GLabel 8100 4150 2    50   Output ~ 0
+Y8
+Text GLabel 8100 4250 2    50   Output ~ 0
+Y6
+Text GLabel 8100 4350 2    50   Output ~ 0
+Y4
+Text GLabel 8100 4450 2    50   Output ~ 0
+Y2
+NoConn ~ 8000 4550
+Wire Wire Line
+	8100 3650 8000 3650
+Wire Wire Line
+	8000 3750 8100 3750
+Wire Wire Line
+	8100 3850 8000 3850
+Wire Wire Line
+	8000 3950 8100 3950
+Wire Wire Line
+	8100 4050 8000 4050
+Wire Wire Line
+	8000 4150 8100 4150
+Wire Wire Line
+	8100 4250 8000 4250
+Wire Wire Line
+	8000 4350 8100 4350
+Wire Wire Line
+	8100 4450 8000 4450
+Wire Wire Line
+	7500 4550 7400 4550
+Wire Wire Line
+	7400 4450 7500 4450
+Wire Wire Line
+	7500 4350 7400 4350
+Wire Wire Line
+	7400 4250 7500 4250
+Wire Wire Line
+	7500 4150 7400 4150
+Wire Wire Line
+	7400 4050 7500 4050
+Wire Wire Line
+	7500 3950 7400 3950
+Wire Wire Line
+	7400 3850 7500 3850
+Wire Wire Line
+	7500 3750 7400 3750
+Wire Wire Line
+	7400 3650 7500 3650
+Text Notes 8200 1500 2    50   ~ 0
+PIN 1
+Text Notes 8150 2550 2    50   ~ 0
+PIN 10
+$Comp
+L Connector_Generic:Conn_02x10_Odd_Even J4
+U 1 1 65C84B61
+P 10250 4150
+F 0 "J4" H 10300 3425 50  0000 C CNN
+F 1 "664 (Inline)" H 10300 3516 50  0000 C CNN
+F 2 "Connector_IDC:IDC-Header_2x10_P2.54mm_Vertical" H 10250 4150 50  0001 C CNN
+F 3 "~" H 10250 4150 50  0001 C CNN
+	1    10250 4150
+	-1   0    0    1   
+$EndComp
+NoConn ~ 9950 3650
+Text GLabel 9850 3750 0    50   Output ~ 0
+Y1
+Text GLabel 9850 3850 0    50   Input ~ 0
+X9
+Text GLabel 9850 3950 0    50   Input ~ 0
+X1
+Text GLabel 9850 4050 0    50   Input ~ 0
+X3
+Text GLabel 9850 4150 0    50   Input ~ 0
+X5
+Text GLabel 9850 4250 0    50   Input ~ 0
+X7
+Text GLabel 9850 4350 0    50   Output ~ 0
+Y8
+Text GLabel 9850 4450 0    50   Output ~ 0
+Y6
+Text GLabel 9850 4550 0    50   Output ~ 0
+Y4
+Text GLabel 10550 3650 2    50   Input ~ 0
+X8
+Text GLabel 10550 3750 2    50   Output ~ 0
+Y2
+Text GLabel 10550 3850 2    50   Output ~ 0
+Y10
+Text GLabel 10550 3950 2    50   Input ~ 0
+X2
+Text GLabel 10550 4050 2    50   Input ~ 0
+X4
+Text GLabel 10550 4150 2    50   Input ~ 0
+X6
+Text GLabel 10550 4250 2    50   Output ~ 0
+Y9
+Text GLabel 10550 4350 2    50   Output ~ 0
+Y7
+Text GLabel 10550 4450 2    50   Output ~ 0
+Y5
+Text GLabel 10550 4550 2    50   Output ~ 0
+Y3
+Wire Wire Line
+	10550 3650 10450 3650
+Wire Wire Line
+	10450 3750 10550 3750
+Wire Wire Line
+	10550 3850 10450 3850
+Wire Wire Line
+	10450 3950 10550 3950
+Wire Wire Line
+	10550 4050 10450 4050
+Wire Wire Line
+	10450 4150 10550 4150
+Wire Wire Line
+	10550 4250 10450 4250
+Wire Wire Line
+	10450 4350 10550 4350
+Wire Wire Line
+	10550 4450 10450 4450
+Wire Wire Line
+	10450 4550 10550 4550
+Wire Wire Line
+	9950 4550 9850 4550
+Wire Wire Line
+	9850 4450 9950 4450
+Wire Wire Line
+	9950 4350 9850 4350
+Wire Wire Line
+	9850 4250 9950 4250
+Wire Wire Line
+	9950 4150 9850 4150
+Wire Wire Line
+	9850 4050 9950 4050
+Wire Wire Line
+	9950 3950 9850 3950
+Wire Wire Line
+	9850 3850 9950 3850
+Wire Wire Line
+	9950 3750 9850 3750
+Text Notes 9750 1150 0    50   ~ 0
+CPC Modular\n(Same pinout as '6128)
+Text Notes 8150 3250 2    50   ~ 0
+'464 with PCB keyboard
+Text Notes 10450 3300 2    50   ~ 0
+'664 (untested)
+Text Notes 7300 3600 0    50   ~ 0
+PIN 1
+Text Notes 7900 4650 0    50   ~ 0
+PIN 20
+Text Notes 7400 4650 0    50   ~ 0
+PIN 19
+Text Notes 8000 3600 0    50   ~ 0
+PIN 2
+$EndSCHEMATC
